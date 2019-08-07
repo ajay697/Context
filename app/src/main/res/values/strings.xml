@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Context</string>
+    <string name="article">Fortunately, more female candidates can help counteract the paradox —
+        basically by increasing voters’ exposure to several different female voices and allowing people
+        to envision one of those faces being president.
+Seeing so many competent women on the campaign trail may trigger what psychologists call the “contact hypothesis,”
+        the theory that the more a person is exposed to someone from their social “out-group,” the more
+        sympathetic that person becomes to all members of the out-group. We also know that in today’s polarized
+        climate, people tend to see their co-partisans as their “in-group,” and opposite partisans as their
+        “out-group.” By having more viable women in the presidential race, voters are making “contact” with a
+        variety of female candidates,
+        each of whom is currently courting a different part of the Democratic constituency
+        (Warren, the inequality wonk; Harris, the general progressive; Klobuchar, the pragmatist; Gillibrand,</string>
+    <string name="edit_item">Edit</string>
+    <string name="share_item">Share</string>
+    <string name="delete_item">Delete</string>
+    <string name="edit_message">You selected edit.</string>
+    <string name="share_message">YOu selected share.</string>
+    <string name="delete_message">You selected delete.</string>
+</resources>
